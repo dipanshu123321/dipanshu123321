@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+👨‍💻 About Me<br><br>Name: Dipanshu<br><br>College: SVVV Indore<br><br><br>Course: B.Tech in Computer Science Engineering<br><br>Year: Engineering in progress<br><br>Role: Frontend Developer (React + Tailwind)<br><br>Focus: Building projects, coding competitions, hackathons<br><br>Nature: Productive mindset, always learning something new<br><br>Work: Managing a Makeup Artist Service Website<br><br>Future Aim: Successful engineer + build profitable digital products<br><br>🛠 Technical Skills (Coding)<br>Languages<br><br>HTML<br><br>CSS<br><br>JavaScript<br><br>C (Basics)<br><br>Python (Learning Phase)<br><br>Frontend Frameworks<br><br>React.js<br><br>Tailwind CSS<br><br>Next.js (Learning)<br><br>Tools<br><br>Git & GitHub<br><br>VS Code<br><br>Figma (Basic UI practice)<br><br>API Integration<br><br>Responsive Web Design<br><br>🚀 Projects<br><br>💄 Makeup Artist Website<br>Frontend + User Flow + Artist Management<br><br>🌐 Personal Portfolio<br>React + Tailwind, responsive design<br><br>📊 Small JS-based Apps<br>Calculators, fetch API projects, mini UI tools<br><br>🎥 YouTube automation channel – "Unseen Knowledge"<br><br>🎯 Goals<br><br>Frontend + Competitive coding mastery<br><br>Participate & win hackathons<br><br>Build high-quality real-world projects<br><br>Reduce social media screen time, improve consistency<br><br>Travel abroad (USA, Singapore, Malaysia, Thailand)
 
-<!--
-**dipanshu123321/dipanshu123321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/DIPANSHU.PATIDAR) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhfm__dipanshu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DIPANSHU PATIDAR) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farmingtips528@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dipanshu123321&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dipanshu123321&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dipanshu123321&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dipanshu123321&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=dipanshu123321&icon=2&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
